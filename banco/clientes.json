@@ -1,0 +1,23 @@
+[
+    {
+        "nome": "jon",
+        "cpf": "1234143413",
+        "idade": "23",
+        "telefone": "23142133",
+        "senha": "31"
+    },
+    {
+        "nome": "carlos",
+        "cpf": "1232454234",
+        "idade": "23",
+        "telefone": "3214554",
+        "senha": "31"
+    },
+    {
+        "nome": "matheus",
+        "cpf": "21312434123",
+        "idade": "32",
+        "telefone": "324252445",
+        "senha": "31"
+    }
+]

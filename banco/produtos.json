@@ -1,0 +1,14 @@
+[
+    {
+        "nome_do_produto": "cafe",
+        "preco": "10.00"
+    },
+    {
+        "nome_do_produto": "Arroz",
+        "preco": "4.00"
+    },
+    {
+        "nome_do_produto": "feijao",
+        "preco": "9.0"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "nome_do_cliente": "jon",
+        "pedido_do_cliente": 0,
+        "valor_pago": 20.0,
+        "troco": 10.0,
+        "data": "2022-12-30 20:48:56.376052"
+    },
+    {
+        "nome_do_cliente": "",
+        "pedido_do_cliente": 1,
+        "valor_pago": 10.0,
+        "troco": 6.0,
+        "data": "2022-12-30 20:50:30.389109"
+    },
+    {
+        "nome_do_cliente": "carlos",
+        "pedido_do_cliente": 0,
+        "valor_pago": 20.0,
+        "troco": 10.0,
+        "data": "2022-12-30 20:52:14.247111"
+    },
+    {
+        "nome_do_cliente": "jon",
+        "pedido_do_cliente": 2,
+        "valor_pago": 10.0,
+        "troco": 1.0,
+        "data": "2022-12-30 20:56:01.441110"
+    }
+]
